@@ -1,0 +1,13 @@
+# Example of literals in python
+
+# Literals are those objects whose internal and external value are the same
+
+# string literals
+str_literals = "I am literaly a literal because you will see exect same string in the output."
+print(str_literals)
+
+
+
+# integer literals
+int_literals = 120
+print(int_literals)
